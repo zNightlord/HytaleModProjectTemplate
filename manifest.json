@@ -1,0 +1,15 @@
+{
+  "Group": "ModTemplateGroup",
+  "Name": "MyModTemplate",
+  "Version": "1.0.0",
+  "Website": "https://yourwebsite.com/",
+  "_commentpath": "Path to the main class",
+  "Main": "com.github.znightlord.mymodtemplate.MyMod",
+  "ServerVersion": "*",
+  "Dependencies": {
+    "_commentdeps": "Add dependencies here",
+    "Hytale: I18nModule": "*",
+    "Hytale: BlockStateModule": "*",
+    "Hytale:BlockModule": "*"
+  }
+}
